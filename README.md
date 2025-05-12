@@ -1,5 +1,6 @@
 ## Hi there 👋
 Welcome to my little corner of Github!
+
 I'm an aspiring data analyst with a strong passion for uncovering insights through data and solving business problems.
 In this repository, you'll find:
 
